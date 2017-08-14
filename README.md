@@ -1,14 +1,15 @@
 ![](./assets/logo.png)
 
-有声书《语法俱乐部》所有音频内容会定期在**荔枝广播**以无损格式发布，压缩后的格式可以在 `build` 目录下面找到，这个项目还会用于相关资料的发布。**SpaceX** 播客可以点击在下面的链接（或扫描二维码）找到，之后会有更多软件工程师软技能内容以音频的形式在这里发布。
+有声书《语法俱乐部》所有音频内容会定期在**荔枝广播**与**网易主播频道**以无损格式发布，压缩后的格式可以在 `build` 目录下面找到，这个项目还会用于相关资料的发布。**SpaceX** 播客可以通过**点击**或**扫描**下面的二维码找到，之后会有更多软件工程师软技能内容以音频的形式在这里发布。
 
 <p align="center">
   <a href="http://www.lizhi.fm/2534060/">
-    <img src="./assets/qr-code.png" width="100">
+    <img src="./assets/qr-lizhi-a.png" width="100">
   </a>
-<p>
-<p align="center">
-http://www.lizhi.fm/2534060/
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="http://music.163.com/#/radio?id=350225447">
+    <img src="./assets/qr-netease-a.png" width="100">
+  </a>
 <p>
 
 **五种简单的基本类型**
