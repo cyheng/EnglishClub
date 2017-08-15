@@ -24,6 +24,14 @@ S: Subject V: Verb O: Object C: Complement
 5. S + V + O + C John Smith's father called him a dog.
 ```
 
+**定冠词与专业名次规则**
+
+```
+1. 名词短语 包括 限定词 形容词 名词 三（3）个部分，任意一个部分都可能省略
+2. 如果名词短语中不用限定词，是因为该名词不适合加 a 或 an
+3. a 与 an 是 one 的弱化结果，而 the 是 that 或 those 的弱化结果
+```
+
 <p align="center">
   <a href="http://www.lizhi.fm/2534060/">
     <img src="./assets/player.png" width="400">
