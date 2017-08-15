@@ -1,6 +1,6 @@
 ![](./assets/logo.png)
 
-有声书《语法俱乐部》所有音频内容会定期在**荔枝广播**与**网易主播频道**以无损格式发布，压缩后的格式可以在 `build` 目录下面找到，这个项目还会用于相关资料的发布。**SpaceX** 播客可以通过**点击**或**扫描**下面的二维码找到，之后会有更多软件工程师软技能内容以音频的形式在这里发布。
+有声书《语法俱乐部》所有音频内容会定期在[**荔枝广播**](http://www.lizhi.fm/2534060/)与[**网易主播频道**](http://music.163.com/#/radio?id=350225447)以无损格式发布，计划是每天更新十分钟左右的内容在三个月内完成有声书的录制。压缩后的格式可以在 [`build`](https://github.com/li-xinyang/SS_EnglishGrammar/tree/master/build) 目录下面找到，这个项目还会用于相关笔记与资料的发布。**SpaceX** 播客可以通过**点击**或**扫描**下面的二维码找到，之后会有更多软件工程师软技能内容以音频的形式在这里发布。
 
 <p align="center">
   <a href="http://www.lizhi.fm/2534060/">
@@ -22,6 +22,14 @@ S: Subject V: Verb O: Object C: Complement
 3. S + V + C     John Smith is a soldier.
 4. S + V + O + O John Smith's father gave him a dog.
 5. S + V + O + C John Smith's father called him a dog.
+```
+
+**定冠词与专业名次规则**
+
+```
+1. 名词短语 包括 限定词 形容词 名词 三（3）个部分，任意一个部分都可能省略
+2. 如果名词短语中不用限定词，是因为该名词不适合加 a 或 an
+3. a 与 an 是 one 的弱化结果，而 the 是 that 或 those 的弱化结果
 ```
 
 <p align="center">
