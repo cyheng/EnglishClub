@@ -32,6 +32,15 @@ S: Subject V: Verb O: Object C: Complement
 3. a 与 an 是 one 的弱化结果，而 the 是 that 或 those 的弱化结果
 ```
 
+**动词时态**
+
+```
+1. 把 Be 动词当作动词来看，句子就只剩下两种时态：一般时 与 完成时
+2. 一般时 是以 括号型的时间来表达
+3. 完成时 是以 箭头型的时间来表达
+4. Be 动词后面的分词当作形容词补语；现在分词有正在进行的意思 过去分词有被动的意思
+```
+
 <p align="center">
   <a href="http://www.lizhi.fm/2534060/">
     <img src="./assets/player.png" width="400">
