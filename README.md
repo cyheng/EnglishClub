@@ -20,7 +20,7 @@
 S: Subject V: Verb O: Object C: Complement
 
 1. S + V         John Smith died.
-2. S + V + O     John Smith killed a enemy soldier.
+2. S + V + O     John Smith killed three enemy soldiers.
 3. S + V + C     John Smith is a soldier.
 4. S + V + O + O John Smith's father gave him a dog.
 5. S + V + O + C John Smith's father called him a dog.
