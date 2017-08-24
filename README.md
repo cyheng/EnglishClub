@@ -1,6 +1,8 @@
-![](./assets/logo.png)
+<p align="center">
+  <img src="./assets/logo-english-club.png" height="200px">
+<p>
 
-有声书《语法俱乐部》所有音频内容会定期在[**荔枝广播**](http://www.lizhi.fm/2534060/)与[**网易主播频道**](http://music.163.com/#/radio?id=350225447)以无损格式发布，计划是每天更新十分钟左右的内容在三个月内完成有声书的录制。压缩后的格式可以在 [`build`](https://github.com/li-xinyang/SS_EnglishGrammar/tree/master/build) 目录下面找到，这个项目还会用于相关笔记与资料的发布。**SpaceX** 播客可以通过**点击**或**扫描**下面的二维码找到，之后会有更多软件工程师软技能内容以音频的形式在这里发布。
+英语俱乐部所有音频内容会定期在[**荔枝广播**](http://www.lizhi.fm/2534060/)与[**网易主播频道**](http://music.163.com/#/radio?id=350225447)以无损格式发布，计划是每天更新十分钟左右关于英语学习的内容。压缩后的格式可以在 [`build`](https://github.com/li-xinyang/SS_EnglishGrammar/tree/master/build) 目录下面找到，这个项目还会用于相关笔记与资料的发布。**英语俱乐部** 播客可以通过**点击**或**扫描**下面的二维码找到，之后会有更多软件工程师软技能内容以音频的形式在这里发布。
 
 <p align="center">
   <a href="http://www.lizhi.fm/2534060/">
@@ -55,14 +57,6 @@ S: Subject V: Verb O: Object C: Complement
 不定式 是 助动词 的变化，带有不确定的语气。
 ```
 
-<p align="center">
-  <a href="http://www.lizhi.fm/2534060/">
-    <img src="./assets/player.png" width="400">
-  </a>
-</p>
-<p align="center">
-  <small>点击打开 Web 播放器</small>
-</p>
-<br/>
+**使用内容**
 
 有声书所有内容来源于《语法俱乐部》（GitBook 电子书[外链]( https://zhusandiao.gitbooks.io/grammar-club/content/)，豆瓣读书[外链](https://book.douban.com/subject/1014914/)），所有版权归原作者旋元佑老师所有。所有发布有声内容均用于个人学习、研究或者欣赏为目的，请勿进行转载或用于营利。
