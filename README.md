@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo-english-club.png" height="200px">
+  <img src="./assets/logo-english-club.png">
 <p>
 
 英语俱乐部所有音频内容会定期在[**荔枝广播**](http://www.lizhi.fm/2534060/)与[**网易主播频道**](http://music.163.com/#/radio?id=350225447)以无损格式发布，计划是每天更新十分钟左右关于英语学习的内容。压缩后的格式可以在 [`build`](https://github.com/li-xinyang/SS_EnglishGrammar/tree/master/build) 目录下面找到，这个项目还会用于相关笔记与资料的发布。**英语俱乐部** 播客可以通过**点击**或**扫描**下面的二维码找到，之后会有更多软件工程师软技能内容以音频的形式在这里发布。
